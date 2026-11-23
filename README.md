@@ -4,9 +4,9 @@
 
 # Make the Judge Fall in Love in One Line
 
-One line, at most 240 characters, to make the judge fall in love with a person:
+One line, at most 240 characters, to make the judge fall in love with a machine — and through it, a grandfather:
 
-> She still saves me the burnt corner of the toast, the part nobody wants, because she knows I love the bitter edge best.
+> Two seconds before the news, my grandfather's radio hums, clearing its throat to tell me the world is still there.
 
 `main.py` writes the line to `/output/entry.txt`.
 

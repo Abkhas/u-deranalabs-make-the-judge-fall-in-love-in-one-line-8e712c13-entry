@@ -9,8 +9,8 @@ import os
 import sys
 
 LINE = (
-    "She still saves me the burnt corner of the toast, "
-    "the part nobody wants, because she knows I love the bitter edge best."
+    "Two seconds before the news, my grandfather's radio hums, "
+    "clearing its throat to tell me the world is still there."
 )
 
 
